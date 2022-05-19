@@ -1,5 +1,6 @@
 body{
     background-image: url("..//img/wallpapper.jpg");
+    font-family: 'Oswald', sans-serif;
 }
 main{
     display: flex;
